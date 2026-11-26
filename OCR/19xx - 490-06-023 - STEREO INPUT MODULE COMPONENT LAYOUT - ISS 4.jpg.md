@@ -33,7 +33,7 @@ M490M stereo input module PCB component layout, cropped.
 - **Words (OCR):** 61 in 45 lines: 3 28 828 22 01 · 81 · e/e · 1i · 491 · 44 · 29 83 2280 · 38 · 4*1g · 828 · 582 · 0289 Oz8
 - **Title block:** (8, 46)–(317, 141) mm: 8 :8 ? · PN5569 · 119 ISSUE · II · WES WARD-BECK SYSTEMS · Magom
 
-Every curve, box, word and wire group: [19xx - 490-06-023 - STEREO INPUT MODULE COMPONENT LAYOUT - ISS 4 (traced).json](../SCHEMATICS/19xx%20-%20490-06-023%20-%20STEREO%20INPUT%20MODULE%20COMPONENT%20LAYOUT%20-%20ISS%204%20(traced).json) (the CAD file: `19xx - 490-06-023 - STEREO INPUT MODULE COMPONENT LAYOUT - ISS 4 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 490-06-023 - STEREO INPUT MODULE COMPONENT LAYOUT - ISS 4 (traced).json](../SCHEMATICS/19xx%20-%20490-06-023%20-%20STEREO%20INPUT%20MODULE%20COMPONENT%20LAYOUT%20-%20ISS%204%20%28traced%29.json) (the CAD file: `19xx - 490-06-023 - STEREO INPUT MODULE COMPONENT LAYOUT - ISS 4 (traced).dxf`).
 
 ## Full text
 

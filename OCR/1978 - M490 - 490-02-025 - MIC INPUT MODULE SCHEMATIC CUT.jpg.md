@@ -25,7 +25,7 @@ Wiki page: [M490](../../../../PAGES/M490.md)
 - **Title block:** (354, 8)–(388, 42) mm: WBS · SCALE
 - **Wiring (first pass):** 215 connected wire groups from 1,683 runs, 7 dotted junctions; labelled ends: 481 mm → 442, 042, R46, R5a; 263 mm → 640; 200 mm → 0/25; 199 mm → 013 247162, 0/25, 7p2; 143 mm → 314, 2.2/25
 
-Every curve, box, word and wire group: [1978 - M490 - 490-02-025 - MIC INPUT MODULE SCHEMATIC CUT (traced).json](../SCHEMATICS/1978%20-%20M490%20-%20490-02-025%20-%20MIC%20INPUT%20MODULE%20SCHEMATIC%20CUT%20(traced).json) (the CAD file: `1978 - M490 - 490-02-025 - MIC INPUT MODULE SCHEMATIC CUT (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490 - 490-02-025 - MIC INPUT MODULE SCHEMATIC CUT (traced).json](../SCHEMATICS/1978%20-%20M490%20-%20490-02-025%20-%20MIC%20INPUT%20MODULE%20SCHEMATIC%20CUT%20%28traced%29.json) (the CAD file: `1978 - M490 - 490-02-025 - MIC INPUT MODULE SCHEMATIC CUT (traced).dxf`).
 
 ## Full text
 

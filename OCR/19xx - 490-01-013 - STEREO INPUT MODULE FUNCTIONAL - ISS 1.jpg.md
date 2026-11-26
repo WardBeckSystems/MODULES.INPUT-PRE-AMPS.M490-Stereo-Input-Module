@@ -35,7 +35,7 @@ M490M stereo input module functional diagram, cropped.
 - **Title block:** (208, 49)–(334, 74) mm: WBS · WARD-BECK sysTEMS
 - **Wiring (first pass):** 107 connected wire groups from 222 runs; labelled ends: 114 mm → ASSIGN; 74 mm → CUE; 74 mm → CUE; 34 mm → CUE; 33 mm → CUE, 7 A, TALLY
 
-Every curve, box, word and wire group: [19xx - 490-01-013 - STEREO INPUT MODULE FUNCTIONAL - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20490-01-013%20-%20STEREO%20INPUT%20MODULE%20FUNCTIONAL%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 490-01-013 - STEREO INPUT MODULE FUNCTIONAL - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 490-01-013 - STEREO INPUT MODULE FUNCTIONAL - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20490-01-013%20-%20STEREO%20INPUT%20MODULE%20FUNCTIONAL%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 490-01-013 - STEREO INPUT MODULE FUNCTIONAL - ISS 1 (traced).dxf`).
 
 ## Full text
 

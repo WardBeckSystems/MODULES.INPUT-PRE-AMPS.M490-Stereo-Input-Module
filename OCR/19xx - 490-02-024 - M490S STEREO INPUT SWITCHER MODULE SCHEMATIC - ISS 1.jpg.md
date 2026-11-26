@@ -35,7 +35,7 @@ Schematic of the M490S stereo input switcher module with eight pushbuttons.
 - **Title block:** (356, 34)–(426, 50) mm: WARD-BECK SYSTEMS · M49os
 - **Wiring (first pass):** 36 connected wire groups from 261 runs; labelled ends: 53 mm → CRJJ, IN4OOJ; 52 mm → CRSO, IN4OOJ; 47 mm → CR29, IN4005; 46 mm → CRZB, IN4OOJ; 46 mm → CR26, IN4OOJ
 
-Every curve, box, word and wire group: [19xx - 490-02-024 - M490S STEREO INPUT SWITCHER MODULE SCHEMATIC - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20490-02-024%20-%20M490S%20STEREO%20INPUT%20SWITCHER%20MODULE%20SCHEMATIC%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 490-02-024 - M490S STEREO INPUT SWITCHER MODULE SCHEMATIC - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 490-02-024 - M490S STEREO INPUT SWITCHER MODULE SCHEMATIC - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20490-02-024%20-%20M490S%20STEREO%20INPUT%20SWITCHER%20MODULE%20SCHEMATIC%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 490-02-024 - M490S STEREO INPUT SWITCHER MODULE SCHEMATIC - ISS 1 (traced).dxf`).
 
 ## Full text
 

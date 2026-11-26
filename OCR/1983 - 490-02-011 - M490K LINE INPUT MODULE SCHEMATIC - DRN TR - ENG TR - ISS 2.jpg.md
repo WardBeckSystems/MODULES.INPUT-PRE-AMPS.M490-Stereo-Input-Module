@@ -37,7 +37,7 @@ Wiki page: [M490](../../../../PAGES/M490.md)
 - **Words (OCR):** 126 in 120 lines: c2 · OUTPUtS To · 10 · Assich · Mixing · R52 · LITT · 040 · ci7 · 610 · 0p · 771-
 - **Wiring (first pass):** 193 connected wire groups from 1,259 runs, 4 dotted junctions; labelled ends: 502 mm → WBS, TR; 318 mm → Rc4, Cio, 049; 308 mm → Cr4, Ri5?, Riso, 2k5; 172 mm → Iox, cR; 172 mm → ci7, 10/25, R46, R47
 
-Every curve, box, word and wire group: [1983 - 490-02-011 - M490K LINE INPUT MODULE SCHEMATIC - DRN TR - ENG TR - ISS 2 (traced).json](../SCHEMATICS/1983%20-%20490-02-011%20-%20M490K%20LINE%20INPUT%20MODULE%20SCHEMATIC%20-%20DRN%20TR%20-%20ENG%20TR%20-%20ISS%202%20(traced).json) (the CAD file: `1983 - 490-02-011 - M490K LINE INPUT MODULE SCHEMATIC - DRN TR - ENG TR - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - 490-02-011 - M490K LINE INPUT MODULE SCHEMATIC - DRN TR - ENG TR - ISS 2 (traced).json](../SCHEMATICS/1983%20-%20490-02-011%20-%20M490K%20LINE%20INPUT%20MODULE%20SCHEMATIC%20-%20DRN%20TR%20-%20ENG%20TR%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1983 - 490-02-011 - M490K LINE INPUT MODULE SCHEMATIC - DRN TR - ENG TR - ISS 2 (traced).dxf`).
 
 ## Full text
 

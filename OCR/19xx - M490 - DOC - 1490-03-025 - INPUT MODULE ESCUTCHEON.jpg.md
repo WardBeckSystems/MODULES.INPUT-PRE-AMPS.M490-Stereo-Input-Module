@@ -25,7 +25,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Dots (junctions):** 1
 - **Words (OCR):** 102 in 90 lines: HeL_ · HeLe · FLle · 490-03-025-| · 24e FT · 490-63-025-2-14 · D4 MLL · 242 127 · M49o4 · M4goh · ILSTALL · aLo
 
-Every curve, box, word and wire group: [19xx - M490 - DOC - 1490-03-025 - INPUT MODULE ESCUTCHEON (traced).json](../MECHANICAL/19xx%20-%20M490%20-%20DOC%20-%201490-03-025%20-%20INPUT%20MODULE%20ESCUTCHEON%20(traced).json) (the CAD file: `19xx - M490 - DOC - 1490-03-025 - INPUT MODULE ESCUTCHEON (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M490 - DOC - 1490-03-025 - INPUT MODULE ESCUTCHEON (traced).json](../MECHANICAL/19xx%20-%20M490%20-%20DOC%20-%201490-03-025%20-%20INPUT%20MODULE%20ESCUTCHEON%20%28traced%29.json) (the CAD file: `19xx - M490 - DOC - 1490-03-025 - INPUT MODULE ESCUTCHEON (traced).dxf`).
 
 ## Full text
 

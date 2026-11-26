@@ -36,7 +36,7 @@ M490N stereo input module schematic, cropped.
 - **Title block:** (212, 46)–(335, 71) mm: WBS · WARD-BECK BYSTEMS
 - **Wiring (first pass):** 176 connected wire groups from 1,131 runs; labelled ends: 310 mm → 12,2; 134 mm → 3102; 92 mm → 788}; 84 mm → S"o; 66 mm → 13,10
 
-Every curve, box, word and wire group: [19xx - 490-02-014 - STEREO INPUT MODULE SCHEMATIC - ISS 2 (traced).json](../SCHEMATICS/19xx%20-%20490-02-014%20-%20STEREO%20INPUT%20MODULE%20SCHEMATIC%20-%20ISS%202%20(traced).json) (the CAD file: `19xx - 490-02-014 - STEREO INPUT MODULE SCHEMATIC - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 490-02-014 - STEREO INPUT MODULE SCHEMATIC - ISS 2 (traced).json](../SCHEMATICS/19xx%20-%20490-02-014%20-%20STEREO%20INPUT%20MODULE%20SCHEMATIC%20-%20ISS%202%20%28traced%29.json) (the CAD file: `19xx - 490-02-014 - STEREO INPUT MODULE SCHEMATIC - ISS 2 (traced).dxf`).
 
 ## Full text
 

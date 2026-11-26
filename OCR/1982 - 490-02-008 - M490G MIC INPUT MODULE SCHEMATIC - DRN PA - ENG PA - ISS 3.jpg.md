@@ -38,7 +38,7 @@ Wiki page: [M490](../../../../PAGES/M490.md)
 - **Title block:** (180, 0)–(338, 49) mm: WBS WARD-BeCk bybtemS · DRN · M49oG · ENG. PA · Mic INPUT MODULE · CKD · SCHEMATIC · Ece 29U · 4L ApP · 4e3 Q134014 REVERSED PA · SCALI · 490-02-008 · REvision · APP
 - **Wiring (first pass):** 148 connected wire groups from 850 runs, 1 dotted junctions; labelled ends: 549 mm → 242, CRZ, CRK, R134; 424 mm → 23, 8 /6, R94, RSo; 309 mm → Cri, Ri3c, Iok, 09; 295 mm → 0/25, R4C, 17k, R47; 244 mm → R1tO, IoK, iok, 012
 
-Every curve, box, word and wire group: [1982 - 490-02-008 - M490G MIC INPUT MODULE SCHEMATIC - DRN PA - ENG PA - ISS 3 (traced).json](../SCHEMATICS/1982%20-%20490-02-008%20-%20M490G%20MIC%20INPUT%20MODULE%20SCHEMATIC%20-%20DRN%20PA%20-%20ENG%20PA%20-%20ISS%203%20(traced).json) (the CAD file: `1982 - 490-02-008 - M490G MIC INPUT MODULE SCHEMATIC - DRN PA - ENG PA - ISS 3 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - 490-02-008 - M490G MIC INPUT MODULE SCHEMATIC - DRN PA - ENG PA - ISS 3 (traced).json](../SCHEMATICS/1982%20-%20490-02-008%20-%20M490G%20MIC%20INPUT%20MODULE%20SCHEMATIC%20-%20DRN%20PA%20-%20ENG%20PA%20-%20ISS%203%20%28traced%29.json) (the CAD file: `1982 - 490-02-008 - M490G MIC INPUT MODULE SCHEMATIC - DRN PA - ENG PA - ISS 3 (traced).dxf`).
 
 ## Full text
 

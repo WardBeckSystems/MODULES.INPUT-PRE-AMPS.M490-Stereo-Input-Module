@@ -37,7 +37,7 @@ Wiki page: [M490](../../../../PAGES/M490.md)
 - **Words (OCR):** 52 in 45 lines: Qoo · 062 Typ · 2-56UnC~Q PlACES · 041 · '032 · FULL RAD · 265 · 1.883 · 107 · S00 · DiA · 1.638
 - **Title block:** (279, 14)–(431, 82) mm: Ieehy · NF · ISSUE DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN · Swtch mJNTia BeacKet · ENG GEE 8/32 · CKD · Zobus %i · M 49o · APP · SCALE ':1 · AAo-03-016 · ISSUE · 0/5
 
-Every curve, box, word and wire group: [1980 - 490-03-016 - SWITCH MOUNTING BRACKET M490 - DRN ALF - ENG GEB - ISS 6 (traced).json](../MECHANICAL/1980%20-%20490-03-016%20-%20SWITCH%20MOUNTING%20BRACKET%20M490%20-%20DRN%20ALF%20-%20ENG%20GEB%20-%20ISS%206%20(traced).json) (the CAD file: `1980 - 490-03-016 - SWITCH MOUNTING BRACKET M490 - DRN ALF - ENG GEB - ISS 6 (traced).dxf`).
+Every curve, box, word and wire group: [1980 - 490-03-016 - SWITCH MOUNTING BRACKET M490 - DRN ALF - ENG GEB - ISS 6 (traced).json](../MECHANICAL/1980%20-%20490-03-016%20-%20SWITCH%20MOUNTING%20BRACKET%20M490%20-%20DRN%20ALF%20-%20ENG%20GEB%20-%20ISS%206%20%28traced%29.json) (the CAD file: `1980 - 490-03-016 - SWITCH MOUNTING BRACKET M490 - DRN ALF - ENG GEB - ISS 6 (traced).dxf`).
 
 ## Full text
 

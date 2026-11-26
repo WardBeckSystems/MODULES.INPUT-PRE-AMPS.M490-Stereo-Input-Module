@@ -35,7 +35,7 @@ Wiki page: [M490](../../../../PAGES/M490.md)
 - **Dots (junctions):** 5
 - **Words (OCR):** 6 in 6 lines: MU · 12 · 53 · 083 8 8 · 083 8 8 · Iku
 
-Every curve, box, word and wire group: [1978 - 490-04-011 - M490C LINE INPUT MODULE FRONT PANEL - DRN GEB - ENG GEB (traced).json](../MECHANICAL/1978%20-%20490-04-011%20-%20M490C%20LINE%20INPUT%20MODULE%20FRONT%20PANEL%20-%20DRN%20GEB%20-%20ENG%20GEB%20(traced).json) (the CAD file: `1978 - 490-04-011 - M490C LINE INPUT MODULE FRONT PANEL - DRN GEB - ENG GEB (traced).dxf`).
+Every curve, box, word and wire group: [1978 - 490-04-011 - M490C LINE INPUT MODULE FRONT PANEL - DRN GEB - ENG GEB (traced).json](../MECHANICAL/1978%20-%20490-04-011%20-%20M490C%20LINE%20INPUT%20MODULE%20FRONT%20PANEL%20-%20DRN%20GEB%20-%20ENG%20GEB%20%28traced%29.json) (the CAD file: `1978 - 490-04-011 - M490C LINE INPUT MODULE FRONT PANEL - DRN GEB - ENG GEB (traced).dxf`).
 
 ## Full text
 

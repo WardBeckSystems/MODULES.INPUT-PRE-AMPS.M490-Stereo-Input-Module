@@ -25,7 +25,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 61 in 52 lines: 31 · 2'2022 · I50 · 760 · 12.076 · 375 · JOC · 076 · 2.400 · 7S0 · Holes - · Placcs
 - **Title block:** (355, 21)–(414, 36) mm: WBS · WARD-DECK · GEE · M490
 
-Every curve, box, word and wire group: [19xx - M490 - DOC - 490-03-001 - INPUT MODULE EXTEUSION ISSU (traced).json](../MECHANICAL/19xx%20-%20M490%20-%20DOC%20-%20490-03-001%20-%20INPUT%20MODULE%20EXTEUSION%20ISSU%20(traced).json) (the CAD file: `19xx - M490 - DOC - 490-03-001 - INPUT MODULE EXTEUSION ISSU (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M490 - DOC - 490-03-001 - INPUT MODULE EXTEUSION ISSU (traced).json](../MECHANICAL/19xx%20-%20M490%20-%20DOC%20-%20490-03-001%20-%20INPUT%20MODULE%20EXTEUSION%20ISSU%20%28traced%29.json) (the CAD file: `19xx - M490 - DOC - 490-03-001 - INPUT MODULE EXTEUSION ISSU (traced).dxf`).
 
 ## Full text
 

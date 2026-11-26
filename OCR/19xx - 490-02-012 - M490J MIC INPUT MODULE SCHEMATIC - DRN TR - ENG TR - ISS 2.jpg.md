@@ -38,7 +38,7 @@ Wiki page: [M490](../../../../PAGES/M490.md)
 - **Title block:** (226, 28)–(332, 52) mm: WBS · WARD-Buck Oyetemad · TR
 - **Wiring (first pass):** 194 connected wire groups from 1,036 runs; labelled ends: 271 mm → Rs, Re7, Sk, R72; 241 mm → R140, 10k, Qi} 2n2i02, 812; 169 mm → 33/10, 76_, Rc, 57; 160 mm → 2020, 1012s, 74C76; 139 mm → isk, Rioz, I5k, 232
 
-Every curve, box, word and wire group: [19xx - 490-02-012 - M490J MIC INPUT MODULE SCHEMATIC - DRN TR - ENG TR - ISS 2 (traced).json](../SCHEMATICS/19xx%20-%20490-02-012%20-%20M490J%20MIC%20INPUT%20MODULE%20SCHEMATIC%20-%20DRN%20TR%20-%20ENG%20TR%20-%20ISS%202%20(traced).json) (the CAD file: `19xx - 490-02-012 - M490J MIC INPUT MODULE SCHEMATIC - DRN TR - ENG TR - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 490-02-012 - M490J MIC INPUT MODULE SCHEMATIC - DRN TR - ENG TR - ISS 2 (traced).json](../SCHEMATICS/19xx%20-%20490-02-012%20-%20M490J%20MIC%20INPUT%20MODULE%20SCHEMATIC%20-%20DRN%20TR%20-%20ENG%20TR%20-%20ISS%202%20%28traced%29.json) (the CAD file: `19xx - 490-02-012 - M490J MIC INPUT MODULE SCHEMATIC - DRN TR - ENG TR - ISS 2 (traced).dxf`).
 
 ## Full text
 
