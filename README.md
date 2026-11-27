@@ -30,6 +30,15 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 
 Not on Google Drive yet: `1978 - 490-04-011 - M490C LINE INPUT MODULE FRONT PANEL - DRN GEB - ENG GEB.jpg`, `1980 - 490-03-016 - SWITCH MOUNTING BRACKET M490 - DRN ALF - ENG GEB - ISS 6.jpg`, `1988 - 490-03-022 - P.C.B. SHEILD COVER - DRN AMK -8 - ENG PC - ISS 5.jpg`
 
+## 3-D model
+
+[`MECHANICAL/M490.stl`](MECHANICAL/M490.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M490)
+
+- **Size:** 44.69 × 276.35 mm panel, 165 mm deep, 3.2 mm plate (the drawing sheet, taken as drawn 1:1)
+- **From the drawing:** 8 holes and cut-outs, 1 knobs (front panel: `MECHANICAL/M490 - front panel.svg`)
+- the drawn panel is 0.11 wide to high, the size 0.16: placed by its height
+- Made by `tools/module_models.py` (→ `MECHANICAL/M490.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
