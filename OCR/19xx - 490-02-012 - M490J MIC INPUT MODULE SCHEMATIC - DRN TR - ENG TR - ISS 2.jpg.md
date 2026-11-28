@@ -1,5 +1,5 @@
 # 19xx - 490-02-012 - M490J MIC INPUT MODULE SCHEMATIC - DRN TR - ENG TR - ISS 2.jpg
-Wiki page: [M490](../../../../PAGES/M490.md)
+Wiki page: [M490](../)
 
 
 - **Year:** unknown (title block (read by eye))

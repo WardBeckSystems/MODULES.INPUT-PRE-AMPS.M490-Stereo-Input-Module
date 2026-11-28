@@ -1,5 +1,5 @@
 # 19xx - 490-02-024 - M490S STEREO INPUT SWITCHER MODULE SCHEMATIC - ISS 1.jpg
-Wiki page: [M490](../../../../PAGES/M490.md)
+Wiki page: [M490](../)
 
 
 - **Year:** unknown (title block (read by eye))

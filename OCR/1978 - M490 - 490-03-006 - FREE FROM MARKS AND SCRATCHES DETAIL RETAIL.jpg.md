@@ -1,5 +1,5 @@
 # 1978 - M490 - 490-03-006 - FREE FROM MARKS AND SCRATCHES DETAIL RETAIL.jpg
-Wiki page: [M490](../../../../PAGES/M490.md)
+Wiki page: [M490](../)
 
 
 - **Year:** 1978 (module estimate (labelled))

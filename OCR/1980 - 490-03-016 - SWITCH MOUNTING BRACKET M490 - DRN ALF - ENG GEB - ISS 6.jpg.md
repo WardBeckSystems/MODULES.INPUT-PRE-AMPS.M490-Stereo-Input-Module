@@ -1,5 +1,5 @@
 # 1980 - 490-03-016 - SWITCH MOUNTING BRACKET M490 - DRN ALF - ENG GEB - ISS 6.jpg
-Wiki page: [M490](../../../../PAGES/M490.md)
+Wiki page: [M490](../)
 
 
 - **Year:** 1980 (title block date)

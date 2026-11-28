@@ -1,5 +1,5 @@
 # 19xx - 490-06-023 - STEREO INPUT MODULE COMPONENT LAYOUT - ISS 4.jpg
-Wiki page: [M490](../../../../PAGES/M490.md)
+Wiki page: [M490](../)
 
 
 - **Year:** unknown (title block (read by eye))

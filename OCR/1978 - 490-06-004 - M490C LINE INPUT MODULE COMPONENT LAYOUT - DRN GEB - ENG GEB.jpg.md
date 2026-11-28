@@ -1,5 +1,5 @@
 # 1978 - 490-06-004 - M490C LINE INPUT MODULE COMPONENT LAYOUT - DRN GEB - ENG GEB.jpg
-Wiki page: [M490](../../../../PAGES/M490.md)
+Wiki page: [M490](../)
 
 
 - **Year:** 1978 (title block date)

@@ -1,5 +1,5 @@
 # 1978 - M490 - 490-02-025 - MIC INPUT MODULE SCHEMATIC CUT.jpg
-Wiki page: [M490](../../../../PAGES/M490.md)
+Wiki page: [M490](../)
 
 
 - **Year:** 1978 (module estimate (labelled))

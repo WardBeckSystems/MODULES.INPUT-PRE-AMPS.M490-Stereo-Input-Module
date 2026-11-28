@@ -1,5 +1,5 @@
 # 1982 - 490-01-009 - M490H LINE INPUT MODULE FUNCTIONAL DIAGRAM - DRN PA - ENG PA - ISS 1.jpg
-Wiki page: [M490](../../../../PAGES/M490.md)
+Wiki page: [M490](../)
 
 
 - **Year:** 1982 (title block date)

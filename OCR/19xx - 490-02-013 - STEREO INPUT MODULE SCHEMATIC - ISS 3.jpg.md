@@ -1,5 +1,5 @@
 # 19xx - 490-02-013 - STEREO INPUT MODULE SCHEMATIC - ISS 3.jpg
-Wiki page: [M490](../../../../PAGES/M490.md)
+Wiki page: [M490](../)
 
 
 - **Year:** unknown (title block (read by eye))

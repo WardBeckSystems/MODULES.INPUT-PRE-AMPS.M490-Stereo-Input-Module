@@ -1,5 +1,5 @@
 # 19xx - 490-02-018 - M490BA MIC INPUT MODULE SCHEMATIC - DRN GEB - ENG GEB.png
-Wiki page: [M490](../../../../PAGES/M490.md)
+Wiki page: [M490](../)
 
 
 - **Year:** unknown (title block (read by eye))

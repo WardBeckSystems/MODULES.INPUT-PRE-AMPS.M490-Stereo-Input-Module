@@ -1,5 +1,5 @@
 # 1982 - 490-02-008 - M490G MIC INPUT MODULE SCHEMATIC - DRN PA - ENG PA - ISS 3.jpg
-Wiki page: [M490](../../../../PAGES/M490.md)
+Wiki page: [M490](../)
 
 
 - **Year:** 1982 (title block date)

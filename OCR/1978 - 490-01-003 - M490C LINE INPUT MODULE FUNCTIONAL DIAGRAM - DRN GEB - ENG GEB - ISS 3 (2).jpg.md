@@ -1,5 +1,5 @@
 # 1978 - 490-01-003 - M490C LINE INPUT MODULE FUNCTIONAL DIAGRAM - DRN GEB - ENG GEB - ISS 3 (2).jpg
-Wiki page: [M490](../../../../PAGES/M490.md)
+Wiki page: [M490](../)
 
 
 - **Year:** 1978 (title block date)

@@ -1,5 +1,5 @@
 # 1983 - 490-02-011 - M490K LINE INPUT MODULE SCHEMATIC - DRN TR - ENG TR - ISS 2.jpg
-Wiki page: [M490](../../../../PAGES/M490.md)
+Wiki page: [M490](../)
 
 
 - **Year:** 1983 (title block date)
