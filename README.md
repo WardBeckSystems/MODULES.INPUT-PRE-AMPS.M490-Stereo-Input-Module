@@ -4,13 +4,12 @@ Ward-Beck Systems M490, 1978|11. Wiki page: [M490 on WBSps.ca](https://wardbecks
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 112 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 32 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 3 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 3 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 2 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 24 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 111 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 31 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 2 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 2 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 23 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 36 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -28,7 +27,14 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1lKHpnTICJh9KiuJpWwjL0ARMKAIf46sP/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1lKHpnTICJh9KiuJpWwjL0ARMKAIf46sP" width="240" alt="19xx - M490 - DOC - 490-03-004 - WITH WHITE EPEXT.jpg"></a><br><sub>19xx - M490 - DOC - 490-03-004 - WITH WHITE EPEXT · <a href="MECHANICAL/19xx%20-%20M490%20-%20DOC%20-%20490-03-004%20-%20WITH%20WHITE%20EPEXT%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1978 - 490-04-011 - M490C LINE INPUT MODULE FRONT PANEL - DRN GEB - ENG GEB.jpg`, `1980 - 490-03-016 - SWITCH MOUNTING BRACKET M490 - DRN ALF - ENG GEB - ISS 6.jpg`, `1988 - 490-03-022 - P.C.B. SHEILD COVER - DRN AMK -8 - ENG PC - ISS 5.jpg`
+## 3-D model
+
+[`MECHANICAL/M490.stl`](MECHANICAL/M490.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M490)
+
+- **Size:** 44.69 × 276.35 mm panel, 165 mm deep, 3.2 mm plate (the drawing sheet, taken as drawn 1:1)
+- **From the drawing:** 8 holes and cut-outs, 1 knobs (front panel: `MECHANICAL/M490 - front panel.svg`)
+- the drawn panel is 0.11 wide to high, the size 0.16: placed by its height
+- Made by `tools/module_models.py` (→ `MECHANICAL/M490.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
 
 ## Schematics
 
@@ -37,8 +43,6 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 <table>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1BOWay3bum28lwzi3M-hOVznEEPyuZBUy/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1BOWay3bum28lwzi3M-hOVznEEPyuZBUy" width="240" alt="1978 - M490 - 490-02-025 - MIC INPUT MODULE SCHEMATIC CUT.jpg"></a><br><sub>1978|11 · 490-02-025 - MIC INPUT MODULE SCHEMATIC CUT · <a href="SCHEMATICS/1978%20-%20M490%20-%20490-02-025%20-%20MIC%20INPUT%20MODULE%20SCHEMATIC%20CUT%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
-
-Not on Google Drive yet: `1978 - 490-01-001 - M490A MIC INPUT MODULE FUNCTIONAL DIAGRAM - DRN GEB - ENG GEB - ISS 3 (2).jpg`, `1978 - 490-01-001 - M490A MIC INPUT MODULE FUNCTIONAL DIAGRAM - DRN GEB - ENG GEB - ISS 3.jpg`, `1978 - 490-01-001 - MIC INPUT MODULE FUNCTIONAL DIAGRAM - DRN GEB - ENG GEB - ISS 3.jpg`, `1978 - 490-01-002 - M490B MIC INPUT MODULE FUNCTIONAL DIAGRAM - DRN GEB - ENG GEB - ISS 3.jpg`, `1978 - 490-01-003 - M490C LINE INPUT MODULE FUNCTIONAL DIAGRAM - DRN GEB - ENG GEB - ISS 3 (2).jpg`, `1978 - 490-01-003 - M490C LINE INPUT MODULE FUNCTIONAL DIAGRAM - DRN GEB - ENG GEB - ISS 3.jpg`, `1978 - 490-01-004 - M490D LINE INPUT MODULE FUNCTIONAL DIAGRAM - DRN GEB - ENG GEB - ISS 3.jpg`, `1978 - 490-01-005 - M490E STEREO INPUT MODULE FUNCTIONAL DIAGRAM - DRN GEB - ENG GEB - ISS 3.jpg`, `1978 - 490-01-006 - M490F STEREO INPUT MODULE FUNCTIONAL DIAGRAM - DRN GEB - ENG GEB - ISS 3 (2).jpg`, `1978 - 490-01-006 - M490F STEREO INPUT MODULE FUNCTIONAL DIAGRAM - DRN GEB - ENG GEB - ISS 3.jpg`, `1978 - 490-06-002 - M490A MIC INPUT MODULE COMPONENT LAYOUT - DRN GEB - ENG GEB - ISS 6.jpg`, `1978 - 490-06-004 - M490C LINE INPUT MODULE COMPONENT LAYOUT - DRN GEB - ENG GEB.jpg`, `1982 - 490-01-009 - M490H LINE INPUT MODULE FUNCTIONAL DIAGRAM - DRN PA - ENG PA - ISS 1.jpg`, `1982 - 490-02-008 - M490G MIC INPUT MODULE SCHEMATIC - DRN PA - ENG PA - ISS 3.jpg`, `1983 - 490-02-011 - M490K LINE INPUT MODULE SCHEMATIC - DRN TR - ENG TR - ISS 2.jpg`, `19xx - 490-01-013 - STEREO INPUT MODULE FUNCTIONAL - ISS 1.jpg`, `19xx - 490-01-014 - STEREO INPUT MODULE FUNCTIONAL - ISS 1.jpg`, `19xx - 490-02-012 - M490J MIC INPUT MODULE SCHEMATIC - DRN TR - ENG TR - ISS 2.jpg`, `19xx - 490-02-013 - STEREO INPUT MODULE SCHEMATIC - ISS 3.jpg`, `19xx - 490-02-014 - STEREO INPUT MODULE SCHEMATIC - ISS 2.jpg`, `19xx - 490-02-018 - M490BA MIC INPUT MODULE SCHEMATIC - DRN GEB - ENG GEB.png`, `19xx - 490-02-024 - M490S STEREO INPUT SWITCHER MODULE SCHEMATIC - ISS 1.jpg`, `19xx - 490-06-018.jpg`, `19xx - 490-06-023 - STEREO INPUT MODULE COMPONENT LAYOUT - ISS 4.jpg`, `19xx - 490-06-024 - STEREO INPUT MODULE COMPONENT LAYOUT - ISS 3.jpg`, `19xx - 490-06-024.jpg`
 
 ## Manuals and documents
 
@@ -75,7 +79,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [19xx - 490-02-018 - M490BA MIC INPUT MODULE SCHEMATIC - DRN GEB - ENG GEB.kicad_sch](KICAD/19xx%20-%20490-02-018%20-%20M490BA%20MIC%20INPUT%20MODULE%20SCHEMATIC%20-%20DRN%20GEB%20-%20ENG%20GEB.kicad_sch)
 - [19xx - 490-02-024 - M490S STEREO INPUT SWITCHER MODULE SCHEMATIC - ISS 1.kicad_sch](KICAD/19xx%20-%20490-02-024%20-%20M490S%20STEREO%20INPUT%20SWITCHER%20MODULE%20SCHEMATIC%20-%20ISS%201.kicad_sch)
 - [M490.kicad_sym](KICAD/M490.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
